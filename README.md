@@ -2,7 +2,6 @@
 Web Notification Icon project with PHP and Ajax , mySQL Database 
 ![example output](https://github.com/ArabicRobotics/webNotificationIcon/blob/master/notificationIcon.png?raw=true)
 
-[![Notification Icon project Demo ](https://github.com/ArabicRobotics/webNotificationIcon/blob/master/notificationIcon.png?raw=true)](https://www.youtube.com/watch?v=SPONOHwiJwA){:target="_blank"}
 
 
-[![Demo Doccou alpha](https://j.gifs.com/32Br3O.gif)]
+[![Demo Doccou alpha](https://j.gifs.com/voKxw0.gif)] (https://www.youtube.com/watch?v=SPONOHwiJwA)
